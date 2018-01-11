@@ -1,0 +1,6 @@
+# Excludes all OS files
+.DS_Store*
+
+# iPython checkpoints
+.ipynb_checkpoints
+
