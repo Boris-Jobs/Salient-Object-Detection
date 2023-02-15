@@ -1,5 +1,7 @@
 # Visual Saliency
     Exploiting Sparse and Low-rank Structured Matrix Decomposition(LSMD) for salient object detection
+    
+The original files were saved in my own laptop.
 
 ## Members
 * Calvin Liang<sup>†</sup>
